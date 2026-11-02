@@ -1,0 +1,6 @@
+{
+  "name": "TOKOKUH RESTO",
+  "description": "Aplikasi Kasir dan Manajemen Restoran Profesional 100% Offline oleh TOKOKUH.COM",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
